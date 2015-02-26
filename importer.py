@@ -2,7 +2,7 @@ import csv
 import mysql.connector
 
 # data format example:
-# "2348";"Frese Jochen";;"0049290297330";
+# "2348";"Meyer Hans";;"0049123456567";
 
 # database connection
 cnx = mysql.connector.connect(user='root', database='geheim')
