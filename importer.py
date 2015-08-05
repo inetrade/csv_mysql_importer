@@ -1,8 +1,10 @@
 import csv
 import mysql.connector
 
+
 # data format example:
 # "2348";"Meyer Hans";;"0049123456567";
+
 source_csv = 'some_file.csv'
 
 # database connection
